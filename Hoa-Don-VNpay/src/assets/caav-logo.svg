@@ -1,0 +1,11 @@
+<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="40" cy="40" r="36" fill="#003366"/>
+  <!-- Bird silhouette (stylized Vietnam Airlines style) -->
+  <path d="M22 40 Q32 30 40 35 Q48 30 58 40 Q50 35 40 42 Q30 35 22 40" fill="#FFD700"/>
+  <path d="M40 35 Q44 32 48 35" stroke="#FFD700" stroke-width="2" fill="none"/>
+  <!-- Text -->
+  <text x="90" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#003366">TRUNG TÂM HÀNG KHÔNG</text>
+  <text x="90" y="55" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#003366">VIỆT NAM (CAAV)</text>
+  <text x="90" y="72" font-family="Arial, sans-serif" font-size="11" fill="#666">CIVIL AVIATION AUTHORITY OF VIETNAM</text>
+</svg>
